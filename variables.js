@@ -1,0 +1,10 @@
+let nameOfTheGame
+let gameDescription
+let gameVersion
+let nameCharakterOfTheGame
+let developerGame
+let programmingLanguage
+let vesionProgramming
+let cardName
+let gameDeveloperWebsite
+let interfaceLanguage
